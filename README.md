@@ -1,7 +1,8 @@
 # go-ircserver
 A simple IRC server written in Go.
-I am making a simple IRC server to practice Go. This is mainly just for fun. I
-am making it according to RFC1459 (https://tools.ietf.org/html/rfc1459)
+Mainly for practice, I wanted to make a server to practice various features of the Go language. This server will follow the specs outlined in RFC 1459 (https://tools.ietf.org/html/rfc1459)
+
+# Done
 
 # TODO
 - SSL sockets
@@ -9,3 +10,4 @@ am making it according to RFC1459 (https://tools.ietf.org/html/rfc1459)
 - Hash user passwords
 - IPv6
 - USER and SERVER commands
+- Unit tests
