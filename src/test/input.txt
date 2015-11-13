@@ -1,0 +1,4 @@
+
+PASS secretpassword
+NICK StatesideCash
+USER a12danrulz test1 test2 :Brad C
